@@ -1,0 +1,13 @@
+.checkbox {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .checkbox input {
+    margin-right: 10px;
+  }
+
+  .checkbox {
+    display: flex;
+  }

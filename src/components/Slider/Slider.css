@@ -1,0 +1,128 @@
+/* .slider {
+    width: 100%;
+    overflow: hidden;
+    cursor: grab;
+  }
+  
+  .slider-inner {
+    display: flex;
+    transition: transform 0.3s;
+  }
+  
+  .slider:active {
+    cursor: grabbing;
+  }
+  
+  .card {
+    width: 588px;
+    height: 300px;
+    background-color: #f0f0f0;
+    margin: 0 10px;
+  }
+   */
+
+
+
+  /* لا تحتاج إلى تغيير في هذا الملف */
+/* .slider {
+    width: 100%;
+    overflow: hidden;
+    cursor: grab;
+  }
+  
+  .slider-inner {
+    display: flex;
+    transition: transform 0.3s;
+    width: fit-content;
+  }
+  
+  .slider:active {
+    cursor: grabbing;
+  }
+  
+  .card {
+    width: 588px;
+    height: 300px;
+    background-color: #f0f0f0;
+    margin: 0 10px;
+  } */
+
+
+
+
+
+
+/* لا تحتاج إلى تغيير في هذا الملف */
+/* .slider {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .slider-inner {
+    display: flex;
+  }
+  
+  .card {
+    width: 588px;
+    height: 300px;
+    background-color: #f0f0f0;
+    margin: 0 10px;
+  } */
+
+
+
+
+/* لا تحتاج إلى تغيير في هذا الملف */
+/* .slider {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .slider-inner {
+    display: flex;
+    width: fit-content;
+    position: relative;
+    animation: slide-animation 30s linear infinite;
+  } */
+  
+  /* @keyframes slide-animation {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  } */
+/*   
+  .card {
+    width: 588px;
+    height: 300px;
+    background-color: #f0f0f0;
+    margin: 0 10px;
+  } */
+  
+
+/* لا تحتاج إلى تغيير في هذا الملف */
+.slider {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    cursor: grab;
+  }
+  
+  .slider-inner {
+    display: flex;
+    width: fit-content;
+    position: relative;
+  }
+  
+  .slider:active {
+    cursor: grabbing;
+  }
+  
+  .card {
+    width: 588px;
+    height: 300px;
+    margin: 0 10px;
+  }

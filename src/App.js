@@ -1,11 +1,21 @@
+import MainLayout from './components/MainLayout';
+import { useThemeContext } from './contexts/ThemeContext';
 import './App.css';
-import Home from './components/Home/Home';
-
+import Router from "./router";
 
 function App() {
+  const { theme } = useThemeContext();
+
+  // ];
   return (
     <div className="App">
-  <Home />
+      
+
+      <MainLayout>
+       
+     <Router />
+      </MainLayout>
+
     </div>
   );
 }
