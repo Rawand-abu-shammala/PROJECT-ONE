@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PROJECT-ONE/tree/main/static/css/main.ebb4b4a3.css",
+    "main.js": "/PROJECT-ONE/tree/main/static/js/main.dfcf0edf.js",
+    "static/media/Background2.png": "/PROJECT-ONE/tree/main/static/media/Background2.64f408e8f222efcbd013.png",
+    "static/media/trophy.png": "/PROJECT-ONE/tree/main/static/media/trophy.b3e3487324282af3a67c.png",
+    "static/media/game1.png": "/PROJECT-ONE/tree/main/static/media/game1.3cc397b6ae5caff9855a.png",
+    "static/media/game3.png": "/PROJECT-ONE/tree/main/static/media/game3.482c7273280473214740.png",
+    "static/media/game2.png": "/PROJECT-ONE/tree/main/static/media/game2.eaa82ccaab8f8c1bb645.png",
+    "static/media/game.png": "/PROJECT-ONE/tree/main/static/media/game.91d3933e1a57e9564b01.png",
+    "static/media/FRIENDS.png": "/PROJECT-ONE/tree/main/static/media/FRIENDS.616954e9bc8ce4a05734.png",
+    "static/media/Avatar.png": "/PROJECT-ONE/tree/main/static/media/Avatar.25b355893ba8e77578ca.png",
+    "static/media/prize.png": "/PROJECT-ONE/tree/main/static/media/prize.650e46225bc98646ae62.png",
+    "static/media/play1.png": "/PROJECT-ONE/tree/main/static/media/play1.e0083e4b32ef0075bcd8.png",
+    "static/media/play3.png": "/PROJECT-ONE/tree/main/static/media/play3.34508981c9aacfc400ff.png",
+    "static/media/play2.png": "/PROJECT-ONE/tree/main/static/media/play2.e7c7eb208d749d056bcb.png",
+    "static/media/play4.png": "/PROJECT-ONE/tree/main/static/media/play4.3181d4a9a1470cd3d1b7.png",
+    "index.html": "/PROJECT-ONE/tree/main/index.html",
+    "main.ebb4b4a3.css.map": "/PROJECT-ONE/tree/main/static/css/main.ebb4b4a3.css.map",
+    "main.dfcf0edf.js.map": "/PROJECT-ONE/tree/main/static/js/main.dfcf0edf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebb4b4a3.css",
+    "static/js/main.dfcf0edf.js"
+  ]
+}
