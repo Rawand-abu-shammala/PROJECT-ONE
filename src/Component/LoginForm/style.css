@@ -1,0 +1,23 @@
+.loginForm {
+  display: flex;
+  flex-direction: column;
+  height: 55vh;
+  justify-content: space-between;
+}
+.Register {
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.1rem;
+  text-align: center;
+  color: #696f79;
+  margin-top: 1rem;
+}
+.Register a{
+    text-decoration: none;
+    color: #1565d8;
+}
+.error{
+  color: red;
+  width: 70%;
+  margin:0 auto;
+}
